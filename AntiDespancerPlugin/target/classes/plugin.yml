@@ -1,0 +1,7 @@
+name: AntiDespancerPlugin
+version: '1.0'
+main: play.strictmc.ru.antidespancerplugin.antidespancerplugin.AntiDespancerPlugin
+prefix: StrictAntiMandain
+authors: [ parimek ]
+description: block to DISPENSER to 200y
+website: https://strictmc.ru
